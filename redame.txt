@@ -1,2 +1,2 @@
-alex the best
 Copyright (c) 2018 Copyright Holder All Rights Reserved.
+Read Rapport_Challenge.pdf to understand the Project
